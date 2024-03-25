@@ -4,7 +4,7 @@ INSERT INTO Specialization(name, description) VALUES('ENT Specialist', 'Ear, nos
 INSERT INTO Specialization(name, description) VALUES('Dermatologist', 'Skin doctor');
 INSERT INTO Specialization(name, description) VALUES('Cardiologist', 'Heart doctor');
 INSERT INTO Specialization(name, description) VALUES('Neurologist', 'Nervous system doctor');
-INSERT INTO Specialization(name, description) VALUES('Psychiatrist', 'Mental health doctor');
+INSERT INTO Specialization(name, description) VALUES('Psychiatrist', 'Mental health doctor Specailist');
 
 
 
