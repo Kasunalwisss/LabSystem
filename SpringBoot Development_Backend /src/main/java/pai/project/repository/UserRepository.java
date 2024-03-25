@@ -8,10 +8,6 @@ import org.springframework.data.repository.query.Param;
 import org.springframework.transaction.annotation.Transactional;
 import pai.project.domain.User;
 
-/**
- *
- * @author Michal_Grabowski
- */
 
 public interface UserRepository extends CrudRepository<User, Integer>{
     User findByUsername(String username); 
