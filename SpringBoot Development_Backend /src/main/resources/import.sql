@@ -4,7 +4,7 @@ INSERT INTO Specialization(name, description) VALUES('Laryngologist', 'Ear docto
 INSERT INTO Specialization(name, description) VALUES('Dermatologist', 'Skin doctor')
 INSERT INTO Specialization(name, description) VALUES('Cardiologist', 'Heart doctor')
 INSERT INTO Specialization(name, description) VALUES('Neurologist', 'Neural reactions doctor')
-INSERT INTO Specialization(name, description) VALUES('Psychiatrist', 'Head doctor')
+INSERT INTO Specialization(name, description) VALUES('Psychiatrist', 'Head doctor Specalist')
 
 INSERT INTO Address(street, city, state, country, postal_code) VALUES('ul. Kolorowa 123', 'Kraków', 'małopolskie', 'Polska', '30-123');
 INSERT INTO Address(street, city, state, country, postal_code) VALUES('ul. Antrycytowa 45', 'Skarżysko-Kamienna', 'świętokrzyskie', 'Polska', '87-567');
